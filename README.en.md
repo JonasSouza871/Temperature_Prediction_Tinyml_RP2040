@@ -17,6 +17,10 @@
 CNN 1D deployed on a Raspberry Pi Pico (RP2040) to predict temperature at +5, +10, and +15 minutes
 ahead, using data from two I2C sensors - AHT20 and BMP280.
 
+<p align="center">
+  <img src="images/Conv1D/12_Pipeline_funcionamento.png" alt="Project Pipeline" width="800"/>
+</p>
+
 ---
 
 ## How it works
